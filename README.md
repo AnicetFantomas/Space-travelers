@@ -16,9 +16,7 @@
 - JavaScript
 - linter
 
-## Live Demo
-
-coming soon
+## [Live Demo](https://gorgeous-tanuki-e47e88.netlify.app)
 
 ## Getting started
 
